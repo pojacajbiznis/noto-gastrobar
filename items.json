@@ -1,0 +1,824 @@
+{
+    "item_0": {
+        "key": "pasta-piletina-i-pecurke",
+        "name": "Pasta piletina i pečurke",
+        "img": "https://imageproxy.wolt.com/assets/6866500ad949a8b5ccc55c81",
+        "desc": ""
+    },
+    "item_1": {
+        "key": "pasta-special",
+        "name": "Pasta special",
+        "img": "https://imageproxy.wolt.com/assets/6899e12b2c6035b6fc772962",
+        "desc": ""
+    },
+    "item_2": {
+        "key": "pasta-carbonara",
+        "name": "Pasta carbonara",
+        "img": "https://imageproxy.wolt.com/assets/686650b5d50b8cecdf906896",
+        "desc": ""
+    },
+    "item_3": {
+        "key": "pasta-piletina-u-pesto-sosu",
+        "name": "Pasta piletina u pesto sosu",
+        "img": "https://imageproxy.wolt.com/assets/686654fad50b8cecdf90696f",
+        "desc": ""
+    },
+    "item_4": {
+        "key": "domacinski-sendvic-430g",
+        "name": "Domaćinski sendvič 430g",
+        "img": "https://imageproxy.wolt.com/assets/68666089d949a8b5ccc56092",
+        "desc": ""
+    },
+    "item_5": {
+        "key": "jaja-sa-slaninom",
+        "name": "Jaja sa slaninom",
+        "img": "https://imageproxy.wolt.com/assets/680cbbb137ab058cca26be7f",
+        "desc": ""
+    },
+    "item_6": {
+        "key": "pasta-quatro-formaggi",
+        "name": "Pasta quatro formaggi",
+        "img": "https://imageproxy.wolt.com/assets/686655b7d949a8b5ccc55db5",
+        "desc": ""
+    },
+    "item_7": {
+        "key": "capricciosa-pizza-45cm",
+        "name": "Capricciosa pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/68663d6dd949a8b5ccc5554f",
+        "desc": ""
+    },
+    "item_8": {
+        "key": "capricciosa-pizza-37cm",
+        "name": "Capricciosa pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/68664182d949a8b5ccc557af",
+        "desc": ""
+    },
+    "item_9": {
+        "key": "pasta-piletina",
+        "name": "Pasta piletina",
+        "img": "https://imageproxy.wolt.com/assets/6866552bd50b8cecdf90697e",
+        "desc": ""
+    },
+    "item_10": {
+        "key": "capricciosa-pizza-28cm",
+        "name": "Capricciosa pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/68664182d949a8b5ccc557af",
+        "desc": ""
+    },
+    "item_11": {
+        "key": "pasta-piletina-i-pecurke",
+        "name": "Pasta piletina i pečurke",
+        "img": "https://imageproxy.wolt.com/assets/6866500ad949a8b5ccc55c81",
+        "desc": ""
+    },
+    "item_12": {
+        "key": "capricciosa-pizza-45cm",
+        "name": "Capricciosa pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/68663d6dd949a8b5ccc5554f",
+        "desc": ""
+    },
+    "item_13": {
+        "key": "palacinka-sa-kremom",
+        "name": "Palačinka sa kremom",
+        "img": "https://imageproxy.wolt.com/assets/6899deace2333f2605d5a8a2",
+        "desc": ""
+    },
+    "item_14": {
+        "key": "pasta-piletina-i-pecurke",
+        "name": "Pasta piletina i pečurke",
+        "img": "https://imageproxy.wolt.com/assets/6866500ad949a8b5ccc55c81",
+        "desc": ""
+    },
+    "item_15": {
+        "key": "pepperoni-pizza-37cm-+-2x-pepsi-0.33l",
+        "name": "Pepperoni pizza 37cm + 2x Pepsi 0.33l",
+        "img": "https://imageproxy.wolt.com/assets/6866403b402a9a5536bd0faf",
+        "desc": ""
+    },
+    "item_16": {
+        "key": "capricciosa-pizza-37cm-+-2-x-pepsi-0.33l",
+        "name": "Capricciosa pizza 37cm + 2 x Pepsi 0.33l",
+        "img": "https://imageproxy.wolt.com/assets/68664182d949a8b5ccc557af",
+        "desc": ""
+    },
+    "item_17": {
+        "key": "box-srpska-pizza-22cm-+-pepsi-0.33l",
+        "name": "Box srpska pizza 22cm + Pepsi 0.33l",
+        "img": "https://imageproxy.wolt.com/assets/688f8742fa410dd2587966c8",
+        "desc": ""
+    },
+    "item_18": {
+        "key": "capricciosa-pizza-22cm-+-pepsi-0.33l",
+        "name": "Capricciosa pizza 22cm + Pepsi 0.33l",
+        "img": "https://imageproxy.wolt.com/assets/68664182d949a8b5ccc557af",
+        "desc": ""
+    },
+    "item_19": {
+        "key": "pancerota-suvi-vrat-+-pepsi-0.33l",
+        "name": "Pancerota suvi vrat + Pepsi 0.33l",
+        "img": "https://imageproxy.wolt.com/assets/686642c5402a9a5536bd105f",
+        "desc": ""
+    },
+    "item_20": {
+        "key": "special-sendvic-+-pepsi-0.33l",
+        "name": "Special sendvič + Pepsi 0.33l",
+        "img": "https://imageproxy.wolt.com/assets/6899df6d9e033e41ab6f614e",
+        "desc": ""
+    },
+    "item_21": {
+        "key": "pasta-carbonara-300g-+-pepsi-0.33l",
+        "name": "Pasta carbonara 300g + Pepsi 0.33l",
+        "img": "https://imageproxy.wolt.com/assets/686650b5d50b8cecdf906896",
+        "desc": ""
+    },
+    "item_22": {
+        "key": "palacinka-nutela---plazma-+-pepsi-0.33l",
+        "name": "Palacinka Nutela - Plazma + Pepsi 0.33l",
+        "img": "https://imageproxy.wolt.com/assets/6899df9de2333f2605d5a8f2",
+        "desc": ""
+    },
+    "item_23": {
+        "key": "jaja",
+        "name": "Jaja",
+        "img": "https://imageproxy.wolt.com/assets/680cbe210b43fc2a1c00e592",
+        "desc": ""
+    },
+    "item_24": {
+        "key": "jaja-sa-slaninom",
+        "name": "Jaja sa slaninom",
+        "img": "https://imageproxy.wolt.com/assets/680cbbb137ab058cca26be7f",
+        "desc": ""
+    },
+    "item_25": {
+        "key": "jaja-sa-prsutom-i-kajmakom",
+        "name": "Jaja sa pršutom i kajmakom",
+        "img": "https://imageproxy.wolt.com/assets/680cbacf6f972db77b4d34e9",
+        "desc": ""
+    },
+    "item_26": {
+        "key": "jaja-sa-domacom-kobasicom",
+        "name": "Jaja sa domaćom kobasicom",
+        "img": "https://imageproxy.wolt.com/assets/680cbb1b37ab058cca26be75",
+        "desc": ""
+    },
+    "item_27": {
+        "key": "margherita-pizza-28cm",
+        "name": "Margherita pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/68663f9a402a9a5536bd0f84",
+        "desc": ""
+    },
+    "item_28": {
+        "key": "pepperoni-pizza-28cm",
+        "name": "Pepperoni pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/6866403b402a9a5536bd0faf",
+        "desc": ""
+    },
+    "item_29": {
+        "key": "domacinska-pizza-28cm",
+        "name": "Domaćinska pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/686640a4d949a8b5ccc5563b",
+        "desc": ""
+    },
+    "item_30": {
+        "key": "srpska-pizza-28cm",
+        "name": "Srpska pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/688f8742fa410dd2587966c8",
+        "desc": ""
+    },
+    "item_31": {
+        "key": "onion-pizza-28cm",
+        "name": "Onion pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/68664142402a9a5536bd100d",
+        "desc": ""
+    },
+    "item_32": {
+        "key": "capricciosa-pizza-28cm",
+        "name": "Capricciosa pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/68664182d949a8b5ccc557af",
+        "desc": ""
+    },
+    "item_33": {
+        "key": "quttro-formaggi-pizza-28cm",
+        "name": "Quttro Formaggi pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/686641ded50b8cecdf906433",
+        "desc": ""
+    },
+    "item_34": {
+        "key": "tuna-pizza-28cm",
+        "name": "Tuna pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/68664263d949a8b5ccc557d9",
+        "desc": ""
+    },
+    "item_35": {
+        "key": "calzone-pizza-28cm",
+        "name": "Calzone pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/686642c5402a9a5536bd105f",
+        "desc": ""
+    },
+    "item_36": {
+        "key": "porsciutto-pizza-28cm",
+        "name": "Porsciutto pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/686646e8402a9a5536bd119e",
+        "desc": ""
+    },
+    "item_37": {
+        "key": "quatro-stagioni-pizza-28cm",
+        "name": "Quatro Stagioni pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/686647c9402a9a5536bd11d5",
+        "desc": ""
+    },
+    "item_38": {
+        "key": "siciliana-pizza-28cm",
+        "name": "Siciliana pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/6866495ad949a8b5ccc55991",
+        "desc": ""
+    },
+    "item_39": {
+        "key": "gorgonzola-montagna-pizza-28cm",
+        "name": "Gorgonzola Montagna pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/68664ad7d50b8cecdf906763",
+        "desc": ""
+    },
+    "item_40": {
+        "key": "panceta-picante-pizza-28cm",
+        "name": "Panceta picante pizza 28cm",
+        "img": "https://imageproxy.wolt.com/assets/68664c51d949a8b5ccc55ba7",
+        "desc": ""
+    },
+    "item_41": {
+        "key": "margherita-pizza-37cm",
+        "name": "Margherita pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/68663f9a402a9a5536bd0f84",
+        "desc": ""
+    },
+    "item_42": {
+        "key": "pepperoni-pizza-37cm",
+        "name": "Pepperoni pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/6866403b402a9a5536bd0faf",
+        "desc": ""
+    },
+    "item_43": {
+        "key": "srpska-pizza-37cm",
+        "name": "Srpska pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/688f8742fa410dd2587966c8",
+        "desc": ""
+    },
+    "item_44": {
+        "key": "domacinska-pizza-37cm",
+        "name": "Domaćinska pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/686640a4d949a8b5ccc5563b",
+        "desc": ""
+    },
+    "item_45": {
+        "key": "onion-pizza-37cm",
+        "name": "Onion pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/68664142402a9a5536bd100d",
+        "desc": ""
+    },
+    "item_46": {
+        "key": "capricciosa-pizza-37cm",
+        "name": "Capricciosa pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/68664182d949a8b5ccc557af",
+        "desc": ""
+    },
+    "item_47": {
+        "key": "quttro-formaggi-37cm",
+        "name": "Quttro Formaggi 37cm",
+        "img": "https://imageproxy.wolt.com/assets/686641ded50b8cecdf906433",
+        "desc": ""
+    },
+    "item_48": {
+        "key": "tuna-pizza-37cm",
+        "name": "Tuna pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/68664263d949a8b5ccc557d9",
+        "desc": ""
+    },
+    "item_49": {
+        "key": "calzone-pizza-37cm",
+        "name": "Calzone pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/686642c5402a9a5536bd105f",
+        "desc": ""
+    },
+    "item_50": {
+        "key": "porsciutto-pizza-37cm",
+        "name": "Porsciutto pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/686646e8402a9a5536bd119e",
+        "desc": ""
+    },
+    "item_51": {
+        "key": "quatro-stagioni-pizza-37cm",
+        "name": "Quatro Stagioni pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/686647c9402a9a5536bd11d5",
+        "desc": ""
+    },
+    "item_52": {
+        "key": "siciliana-pizza-37cm",
+        "name": "Siciliana pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/686649bbd949a8b5ccc55b0f",
+        "desc": ""
+    },
+    "item_53": {
+        "key": "gorgonzola-montagna-pizza-37cm",
+        "name": "Gorgonzola Montagna pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/68664b2e402a9a5536bd12a4",
+        "desc": ""
+    },
+    "item_54": {
+        "key": "panceta-picante-pizza-37cm",
+        "name": "Panceta picante pizza 37cm",
+        "img": "https://imageproxy.wolt.com/assets/68664c51d949a8b5ccc55ba7",
+        "desc": ""
+    },
+    "item_55": {
+        "key": "margherita-pizza-45cm",
+        "name": "Margherita pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/68663f9a402a9a5536bd0f84",
+        "desc": ""
+    },
+    "item_56": {
+        "key": "pepperoni-pizza-45cm",
+        "name": "Pepperoni pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/6866403b402a9a5536bd0faf",
+        "desc": ""
+    },
+    "item_57": {
+        "key": "domacinska-pizza-45cm",
+        "name": "Domaćinska pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/686640a4d949a8b5ccc5563b",
+        "desc": ""
+    },
+    "item_58": {
+        "key": "srpska-pizza-45cm",
+        "name": "Srpska pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/688f8742fa410dd2587966c8",
+        "desc": ""
+    },
+    "item_59": {
+        "key": "tuna-pizza-45cm",
+        "name": "Tuna pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/68664263d949a8b5ccc557d9",
+        "desc": ""
+    },
+    "item_60": {
+        "key": "onion-pizza-45cm",
+        "name": "Onion pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/68664142402a9a5536bd100d",
+        "desc": ""
+    },
+    "item_61": {
+        "key": "capricciosa-pizza-45cm",
+        "name": "Capricciosa pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/68664182d949a8b5ccc557af",
+        "desc": ""
+    },
+    "item_62": {
+        "key": "quttro-formaggi-pizza-45cm",
+        "name": "Quttro Formaggi pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/686641ded50b8cecdf906433",
+        "desc": ""
+    },
+    "item_63": {
+        "key": "porsciutto-pizza-45cm",
+        "name": "Porsciutto pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/686646e8402a9a5536bd119e",
+        "desc": ""
+    },
+    "item_64": {
+        "key": "quatro-stagioni-pizza-45cm",
+        "name": "Quatro Stagioni pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/686647c9402a9a5536bd11d5",
+        "desc": ""
+    },
+    "item_65": {
+        "key": "siciliana-pizza-45cm",
+        "name": "Siciliana pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/68664a47402a9a5536bd1278",
+        "desc": ""
+    },
+    "item_66": {
+        "key": "gorgonzola-montagna-pizza-45cm",
+        "name": "Gorgonzola Montagna pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/68664b77d50b8cecdf906778",
+        "desc": ""
+    },
+    "item_67": {
+        "key": "panceta-picante-pizza-45cm",
+        "name": "Panceta picante pizza 45cm",
+        "img": "https://imageproxy.wolt.com/assets/68664c51d949a8b5ccc55ba7",
+        "desc": ""
+    },
+    "item_68": {
+        "key": "pancerota-kulen",
+        "name": "Pancerota kulen",
+        "img": "https://imageproxy.wolt.com/assets/686642c5402a9a5536bd105f",
+        "desc": ""
+    },
+    "item_69": {
+        "key": "pancerota-suvi-vrat",
+        "name": "Pancerota suvi vrat",
+        "img": "https://imageproxy.wolt.com/assets/686642c5402a9a5536bd105f",
+        "desc": ""
+    },
+    "item_70": {
+        "key": "pancerota-bolonjeze",
+        "name": "Pancerota bolonjeze",
+        "img": "https://imageproxy.wolt.com/assets/686642c5402a9a5536bd105f",
+        "desc": ""
+    },
+    "item_71": {
+        "key": "pancerota-sunka",
+        "name": "Pancerota šunka",
+        "img": "https://imageproxy.wolt.com/assets/686642c5402a9a5536bd105f",
+        "desc": ""
+    },
+    "item_72": {
+        "key": "pasta-special",
+        "name": "Pasta special",
+        "img": "https://imageproxy.wolt.com/assets/6899e12b2c6035b6fc772962",
+        "desc": ""
+    },
+    "item_73": {
+        "key": "pasta-piletina-u-pesto-sosu",
+        "name": "Pasta piletina u pesto sosu",
+        "img": "https://imageproxy.wolt.com/assets/686654fad50b8cecdf90696f",
+        "desc": ""
+    },
+    "item_74": {
+        "key": "pasta-piletina",
+        "name": "Pasta piletina",
+        "img": "https://imageproxy.wolt.com/assets/6866552bd50b8cecdf90697e",
+        "desc": ""
+    },
+    "item_75": {
+        "key": "pasta-piletina-i-pecurke",
+        "name": "Pasta piletina i pečurke",
+        "img": "https://imageproxy.wolt.com/assets/6866500ad949a8b5ccc55c81",
+        "desc": ""
+    },
+    "item_76": {
+        "key": "pasta-carbonara",
+        "name": "Pasta carbonara",
+        "img": "https://imageproxy.wolt.com/assets/686650b5d50b8cecdf906896",
+        "desc": ""
+    },
+    "item_77": {
+        "key": "pasta-quatro-formaggi",
+        "name": "Pasta quatro formaggi",
+        "img": "https://imageproxy.wolt.com/assets/686655b7d949a8b5ccc55db5",
+        "desc": ""
+    },
+    "item_78": {
+        "key": "pasta-bolonjeze",
+        "name": "Pasta bolonjeze",
+        "img": "https://imageproxy.wolt.com/assets/68665658d50b8cecdf9069b9",
+        "desc": ""
+    },
+    "item_79": {
+        "key": "pasta-tuna",
+        "name": "Pasta tuna",
+        "img": "https://imageproxy.wolt.com/assets/6866568c402a9a5536bd16c8",
+        "desc": ""
+    },
+    "item_80": {
+        "key": "pasta-pesto",
+        "name": "Pasta pesto",
+        "img": "https://imageproxy.wolt.com/assets/686656b9d50b8cecdf9069dd",
+        "desc": ""
+    },
+    "item_81": {
+        "key": "pasta-napolitana",
+        "name": "Pasta napolitana",
+        "img": "https://imageproxy.wolt.com/assets/686656e0d50b8cecdf9069e7",
+        "desc": ""
+    },
+    "item_82": {
+        "key": "pasta-fungi",
+        "name": "Pasta fungi",
+        "img": "https://imageproxy.wolt.com/assets/6866570cd50b8cecdf9069ea",
+        "desc": ""
+    },
+    "item_83": {
+        "key": "pasta-siciliana-400g",
+        "name": "Pasta siciliana 400g",
+        "img": "https://imageproxy.wolt.com/assets/6899e0c9e2333f2605d5a992",
+        "desc": ""
+    },
+    "item_84": {
+        "key": "pasta-piletina-u-kari-sosu-400g",
+        "name": "Pasta piletina u kari sosu 400g",
+        "img": "https://imageproxy.wolt.com/assets/6899e0f92c6035b6fc772953",
+        "desc": ""
+    },
+    "item_85": {
+        "key": "sunka-sendvic",
+        "name": "Šunka sendvič",
+        "img": "https://imageproxy.wolt.com/assets/6899e1639e033e41ab6f620d",
+        "desc": ""
+    },
+    "item_86": {
+        "key": "suvi-vrat-sendvic-350g",
+        "name": "Suvi vrat sendvič 350g",
+        "img": "https://imageproxy.wolt.com/assets/6899e19f9e033e41ab6f621b",
+        "desc": ""
+    },
+    "item_87": {
+        "key": "kulen-sendvic",
+        "name": "Kulen sendvič",
+        "img": "https://imageproxy.wolt.com/assets/6899e1dae2333f2605d5a9ee",
+        "desc": ""
+    },
+    "item_88": {
+        "key": "domacinski-sendvic-430g",
+        "name": "Domaćinski sendvič 430g",
+        "img": "https://imageproxy.wolt.com/assets/68666089d949a8b5ccc56092",
+        "desc": ""
+    },
+    "item_89": {
+        "key": "prosciutto-sendvic-330g",
+        "name": "Prosciutto sendvič 330g",
+        "img": "https://imageproxy.wolt.com/assets/6866617cd50b8cecdf906f84",
+        "desc": ""
+    },
+    "item_90": {
+        "key": "special-sendvic",
+        "name": "Special sendvič",
+        "img": "https://imageproxy.wolt.com/assets/6899e27e9e033e41ab6f6250",
+        "desc": ""
+    },
+    "item_91": {
+        "key": "niska-lepinja",
+        "name": "Niška lepinja",
+        "img": "https://imageproxy.wolt.com/assets/68666216d50b8cecdf907159",
+        "desc": ""
+    },
+    "item_92": {
+        "key": "caprese-sendvic",
+        "name": "Caprese sendvič",
+        "img": "https://imageproxy.wolt.com/assets/6866617cd50b8cecdf906f84",
+        "desc": ""
+    },
+    "item_93": {
+        "key": "mortadela-sendvic",
+        "name": "Mortadela sendvič",
+        "img": "https://imageproxy.wolt.com/assets/68666294402a9a5536bd1b63",
+        "desc": ""
+    },
+    "item_94": {
+        "key": "pollo-tortilja",
+        "name": "Pollo tortilja",
+        "img": "https://imageproxy.wolt.com/assets/680f54900b43fc2a1c010831",
+        "desc": ""
+    },
+    "item_95": {
+        "key": "tuna-tortilja",
+        "name": "Tuna tortilja",
+        "img": "https://imageproxy.wolt.com/assets/680f555161c0cdff9b1289ea",
+        "desc": ""
+    },
+    "item_96": {
+        "key": "classic-burger",
+        "name": "Classic burger",
+        "img": "https://imageproxy.wolt.com/assets/680f55cd61c0cdff9b1289ff",
+        "desc": ""
+    },
+    "item_97": {
+        "key": "pileci-file",
+        "name": "Pileći file",
+        "img": "https://imageproxy.wolt.com/assets/680f50a90b43fc2a1c01079c",
+        "desc": ""
+    },
+    "item_98": {
+        "key": "domaca-kobasica",
+        "name": "Domaća kobasica",
+        "img": "https://imageproxy.wolt.com/assets/680f516b61c0cdff9b128952",
+        "desc": ""
+    },
+    "item_99": {
+        "key": "pileci-prstici",
+        "name": "Pileći prstići",
+        "img": "https://imageproxy.wolt.com/assets/680f50f937ab058cca26e179",
+        "desc": ""
+    },
+    "item_100": {
+        "key": "dimljena-vesalica",
+        "name": "Dimljena vešalica",
+        "img": "https://imageproxy.wolt.com/assets/680f51cf37ab058cca26e195",
+        "desc": ""
+    },
+    "item_101": {
+        "key": "pomfrit",
+        "name": "Pomfrit",
+        "img": "https://imageproxy.wolt.com/assets/680f528f0b43fc2a1c0107ec",
+        "desc": ""
+    },
+    "item_102": {
+        "key": "pomfrit-carbonara",
+        "name": "Pomfrit carbonara",
+        "img": "https://imageproxy.wolt.com/assets/680f52d337ab058cca26e1c4",
+        "desc": ""
+    },
+    "item_103": {
+        "key": "pekarski-krompir",
+        "name": "Pekarski krompir",
+        "img": "https://imageproxy.wolt.com/assets/680f531a0b43fc2a1c01080a",
+        "desc": ""
+    },
+    "item_104": {
+        "key": "pohovani-luk",
+        "name": "Pohovani luk",
+        "img": "https://imageproxy.wolt.com/assets/680f535f0b43fc2a1c01081b",
+        "desc": ""
+    },
+    "item_105": {
+        "key": "mozzarella-sticks",
+        "name": "Mozzarella sticks",
+        "img": "https://imageproxy.wolt.com/assets/680f53ca61c0cdff9b1289a4",
+        "desc": ""
+    },
+    "item_106": {
+        "key": "cezar-salata",
+        "name": "Cezar salata",
+        "img": "https://imageproxy.wolt.com/assets/680cbe726f972db77b4d3510",
+        "desc": ""
+    },
+    "item_107": {
+        "key": "caprese-salata",
+        "name": "Caprese salata",
+        "img": "https://imageproxy.wolt.com/assets/680f5b0f0b43fc2a1c01094d",
+        "desc": ""
+    },
+    "item_108": {
+        "key": "grcka-salata",
+        "name": "Grčka salata",
+        "img": "https://imageproxy.wolt.com/assets/680f5b720b43fc2a1c01095b",
+        "desc": ""
+    },
+    "item_109": {
+        "key": "vitaminska-salata",
+        "name": "Vitaminska salata",
+        "img": "https://imageproxy.wolt.com/assets/686658a8402a9a5536bd1725",
+        "desc": ""
+    },
+    "item_110": {
+        "key": "classic-slana-palacinka",
+        "name": "Classic slana palačinka",
+        "img": "https://imageproxy.wolt.com/assets/68665913d949a8b5ccc55ebd",
+        "desc": ""
+    },
+    "item_111": {
+        "key": "niska-slana-palacinka",
+        "name": "Niška slana palačinka",
+        "img": "https://imageproxy.wolt.com/assets/68665913d949a8b5ccc55ebd",
+        "desc": ""
+    },
+    "item_112": {
+        "key": "palacinka-sa-kremom",
+        "name": "Palačinka sa kremom",
+        "img": "https://imageproxy.wolt.com/assets/6899df9de2333f2605d5a8f2",
+        "desc": ""
+    },
+    "item_113": {
+        "key": "palacinka-sa-medom",
+        "name": "Palačinka sa medom",
+        "img": "https://imageproxy.wolt.com/assets/6899e32ae2333f2605d5aaa0",
+        "desc": ""
+    },
+    "item_114": {
+        "key": "palacinka-sa-nutelom",
+        "name": "Palačinka sa nutelom",
+        "img": "https://imageproxy.wolt.com/assets/6899df9de2333f2605d5a8f2",
+        "desc": ""
+    },
+    "item_115": {
+        "key": "nutela",
+        "name": "Nutela",
+        "img": "https://imageproxy.wolt.com/assets/68665a16d949a8b5ccc55ef6",
+        "desc": ""
+    },
+    "item_116": {
+        "key": "snickers",
+        "name": "Snickers",
+        "img": "https://imageproxy.wolt.com/assets/68665a60d50b8cecdf906abe",
+        "desc": ""
+    },
+    "item_117": {
+        "key": "cherry",
+        "name": "Cherry",
+        "img": "https://imageproxy.wolt.com/assets/68665a9ad949a8b5ccc55f18",
+        "desc": ""
+    },
+    "item_118": {
+        "key": "brownie-kolac-(posno)",
+        "name": "Brownie kolač (posno)",
+        "img": "https://imageproxy.wolt.com/assets/688f8989bc887ee8647be716",
+        "desc": ""
+    },
+    "item_119": {
+        "key": "san-sebastian-cheesecake",
+        "name": "San Sebastian cheesecake",
+        "img": "https://imageproxy.wolt.com/assets/688f88d9a72bd3b131a695ea",
+        "desc": ""
+    },
+    "item_120": {
+        "key": "pepsi-0,33l",
+        "name": "Pepsi 0,33l",
+        "img": "https://imageproxy.wolt.com/assets/67fce0a524bfc8a04be56e33",
+        "desc": ""
+    },
+    "item_121": {
+        "key": "pepsi-zero-0,25l",
+        "name": "Pepsi zero 0,25l",
+        "img": "https://imageproxy.wolt.com/assets/6836ca2bd8c6ba609dff5f3e",
+        "desc": ""
+    },
+    "item_122": {
+        "key": "mirinda-0,25l",
+        "name": "Mirinda 0,25l",
+        "img": "https://imageproxy.wolt.com/assets/68665b7ed50b8cecdf906af2",
+        "desc": ""
+    },
+    "item_123": {
+        "key": "7up-0,25l",
+        "name": "7Up 0,25l",
+        "img": "https://imageproxy.wolt.com/assets/68665bbfd50b8cecdf906b03",
+        "desc": ""
+    },
+    "item_124": {
+        "key": "everess-biter-lemon-0,25l",
+        "name": "Everess biter lemon 0,25l",
+        "img": "https://imageproxy.wolt.com/assets/68665c14d949a8b5ccc55f64",
+        "desc": ""
+    },
+    "item_125": {
+        "key": "everess-tonic-0,25l",
+        "name": "Everess tonic 0,25l",
+        "img": "https://imageproxy.wolt.com/assets/68665c78d949a8b5ccc55f75",
+        "desc": ""
+    },
+    "item_126": {
+        "key": "aqua-viva-0,33l",
+        "name": "Aqua viva 0,33l",
+        "img": "https://imageproxy.wolt.com/assets/68665cbed949a8b5ccc55f7f",
+        "desc": ""
+    },
+    "item_127": {
+        "key": "knjaz-milos-0,25l",
+        "name": "Knjaz Miloš 0,25l",
+        "img": "https://imageproxy.wolt.com/assets/68665cfe402a9a5536bd17d6",
+        "desc": ""
+    },
+    "item_128": {
+        "key": "gusto-jabuka-0,2l",
+        "name": "Gusto jabuka 0,2l",
+        "img": "https://imageproxy.wolt.com/assets/68665d45d949a8b5ccc55f96",
+        "desc": ""
+    },
+    "item_129": {
+        "key": "gusto-narandza-0,2l",
+        "name": "Gusto narandža 0,2l",
+        "img": "https://imageproxy.wolt.com/assets/68665dc6d949a8b5ccc55fd5",
+        "desc": ""
+    },
+    "item_130": {
+        "key": "gusto-jagoda-0,2l",
+        "name": "Gusto jagoda 0,2l",
+        "img": "https://imageproxy.wolt.com/assets/68665defd949a8b5ccc55fe4",
+        "desc": ""
+    },
+    "item_131": {
+        "key": "gusto-ananas-0,2l",
+        "name": "Gusto ananas 0,2l",
+        "img": "https://imageproxy.wolt.com/assets/68665e11d949a8b5ccc55ff2",
+        "desc": ""
+    },
+    "item_132": {
+        "key": "gusto-borovnica-0,2l",
+        "name": "Gusto borovnica 0,2l",
+        "img": "https://imageproxy.wolt.com/assets/68665e38d949a8b5ccc55ffc",
+        "desc": ""
+    },
+    "item_133": {
+        "key": "gusto-breskva-0,2l",
+        "name": "Gusto breskva 0,2l",
+        "img": "https://imageproxy.wolt.com/assets/68665e5ad50b8cecdf906b8e",
+        "desc": ""
+    },
+    "item_134": {
+        "key": "knjaz-aromaticni-limun-0,33l",
+        "name": "Knjaz aromatični limun 0,33l",
+        "img": "https://imageproxy.wolt.com/assets/68665ea3402a9a5536bd1836",
+        "desc": ""
+    },
+    "item_135": {
+        "key": "guarana-0,25l",
+        "name": "Guarana 0,25l",
+        "img": "https://imageproxy.wolt.com/assets/68665efed949a8b5ccc56037",
+        "desc": ""
+    },
+    "item_136": {
+        "key": "ivi-0,33l",
+        "name": "Ivi 0,33l",
+        "img": "https://imageproxy.wolt.com/assets/68665f5bd50b8cecdf906bc6",
+        "desc": ""
+    }
+}

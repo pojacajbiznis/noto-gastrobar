@@ -1,0 +1,21 @@
+{
+    "url": "https://www.google.com/maps/place/NOTO+Gastrobar/@43.3198554,21.9199463,680m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4755b15ce5fc1dbd:0xfe3c59eb7bdf8356!8m2!3d43.3198554!4d21.9199463!16s%2Fg%2F11xcnglbkq?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+    "name": "NOTO Gastrobar",
+    "address": "Trg Svetog Save 16, Niš 18106",
+    "phone": "060 4374371",
+    "email": null,
+    "openingHours": {
+        "Sunday": "8 AM–12 AM",
+        "Monday": "8 AM–12 AM",
+        "Tuesday": "8 AM–12 AM",
+        "Wednesday": "8 AM–12 AM",
+        "Thursday": "8 AM–12 AM",
+        "Friday": "8 AM–12 AM",
+        "Saturday": "8 AM–12 AM"
+    },
+    "wolt": "https://wolt.com/sr/srb/nis/restaurant/noto-gastro-food-box",
+    "glovo": "https://glovoapp.com/sr/rs/nis/stores/food-box",
+    "mister-d": "https://misterd.rs/place/food-box-1-dostava",
+    "facebook": "https://www.facebook.com/p/NOTO-Gastrobar-61559061892022/",
+    "instagram": "https://www.instagram.com/notogastrobar/?hl=en"
+}
